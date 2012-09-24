@@ -1,3 +1,4 @@
+console.log('me');
 var show_variant_images = function(variant_id) {
   $('li.vtmb').hide();
   $('li.vtmb-' + variant_id).show();
